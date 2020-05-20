@@ -10,8 +10,6 @@ use pocketmine\utils\Config;
 use pocketmine\event\player\PlayerJoinEvent;
 use pocketmine\event\Listener;
 use xtakumatutix\dispm\postCommand;
-use bbo51dog\pmdiscord\Sender;
-use bbo51dog\pmdiscord\element\Content;
 
 Class Main extends PluginBase implements Listener
 {
