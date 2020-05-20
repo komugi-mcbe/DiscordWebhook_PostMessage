@@ -1,0 +1,10 @@
+---
+name: DiscordWebhookPostMessage
+main: xtakumatutix\dispm\Main
+version: 1.6.0
+api: 3.0.0
+premissions:
+  post:
+    description: "Discordにメッセージを送信します"
+    usage: /post <送信したいメッセージ>
+...
